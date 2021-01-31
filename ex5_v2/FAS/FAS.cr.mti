@@ -1,0 +1,22 @@
+D:/Project/ex5/FAS/testfixture1.v {1 {vlog -work work -stats=none D:/Project/ex5/FAS/testfixture1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture1
+
+Top level modules:
+	testfixture1
+
+} {} {}} D:/Project/ex5/FAS/testfixture2.v {1 {vlog -work work -stats=none D:/Project/ex5/FAS/testfixture2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture2
+
+Top level modules:
+	testfixture2
+
+} {} {}} D:/Project/ex5/FAS/FAS.v {1 {vlog -work work -stats=none D:/Project/ex5/FAS/FAS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FAS
+
+Top level modules:
+	FAS
+
+} {} {}}

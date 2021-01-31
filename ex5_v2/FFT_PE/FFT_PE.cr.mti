@@ -1,0 +1,15 @@
+D:/Project/ex5/FFT_PE/testfixture0.v {1 {vlog -work work -stats=none D:/Project/ex5/FFT_PE/testfixture0.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture0
+
+Top level modules:
+	testfixture0
+
+} {} {}} D:/Project/ex5/FFT_PE/FFT_PE.v {1 {vlog -work work -stats=none D:/Project/ex5/FFT_PE/FFT_PE.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FFT_PE
+
+Top level modules:
+	FFT_PE
+
+} {} {}}
